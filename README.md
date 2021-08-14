@@ -3,10 +3,10 @@ Birla Institute of Technology and Science, Pilani - KK Birla Goa Campus. I'm a P
 and love to explore Robotics, IoT and automation. I like learning about personal finance and practising stock trading. I often
 find myself cooking whenever I'm not preoccupied with the aforementioned stuff!
 
-*Socials*
-Email: anshsrivastava99@gmail.com
-LinkedIn: https://www.linkedin.com/in/anshsrivastava18/
-Instagram: https://www.instagram.com/rogu3__/
+*Socials*<br>
+Email: anshsrivastava99@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/anshsrivastava18/<br>
+Instagram: https://www.instagram.com/rogu3__/<br>
 
 <!---
 roguesoul18/roguesoul18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
